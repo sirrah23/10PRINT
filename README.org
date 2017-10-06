@@ -3,3 +3,4 @@
 My implementation of the 10PRINT pattern inspired by 
 Daniel Shiffman's [[https://www.youtube.com/watch?v=bEyTZ5ZZxZs][coding challenge]].
 
+[[file:images/wind.png]]
